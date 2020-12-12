@@ -8,6 +8,9 @@ A website that offers social solution services.
 * HTML
 * CSS
 
+## Screenshot
+![Horiseon Screenshot](https://ahilborn.github.io/HoriseonChallenge/assets/images/screenshot.jpg)
+
 ## Website
 https://ahilborn.github.io/HoriseonChallenge/
 
